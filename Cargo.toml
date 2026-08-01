@@ -14,7 +14,7 @@ workspace = true
 [dependencies]
 mycelium-core = { git = "https://github.com/tzervas/mycelium-core", rev = "57ef45b453eef1f02bdfb1f0cad1034dabd32b1f" }
 mycelium-proj = { git = "https://github.com/tzervas/mycelium-proj", rev = "610624021a0ea43d3919d4200d7522e31a6dcce0" }
-mycelium-std-core = { git = "https://github.com/tzervas/mycelium-std-core", rev = "276d6a1aa75b2aa15accc06bdc32886e9cf54bc4" }
+mycelium-std-core = { git = "https://github.com/tzervas/mycelium-std-core", rev = "19398dfd847eb9a5fc518149a714d7646abbb316" }
 mycelium-diag = { git = "https://github.com/tzervas/mycelium-runtime", rev = "2317cd1694496b72225213a9fdc59407a907b495" }
 
 # --- standalone workspace root (course-correction Phase B, 2026-07-18; steer handoff §6.2) ---
