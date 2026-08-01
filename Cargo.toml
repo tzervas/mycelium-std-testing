@@ -12,7 +12,7 @@ publish = false
 workspace = true
 
 [dependencies]
-mycelium-core = { git = "https://github.com/tzervas/mycelium-core", rev = "3958d2ea3c3921611e33f1f00e3469b29a939a76" }
+mycelium-core = { git = "https://github.com/tzervas/mycelium-core", rev = "57ef45b453eef1f02bdfb1f0cad1034dabd32b1f" }
 mycelium-proj = { git = "https://github.com/tzervas/mycelium-proj", rev = "985538d697430a361352f2805b2f2a9aadd1a3e5" }
 mycelium-std-core = { git = "https://github.com/tzervas/mycelium-std-core", rev = "f530c3db59a35fbb5769356555bda09997e96a1f" }
 mycelium-diag = { git = "https://github.com/tzervas/mycelium-runtime", rev = "f9e7c3946836c91848a5b6de13ed9dc61665c4fd" }
