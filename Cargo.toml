@@ -12,10 +12,10 @@ publish = false
 workspace = true
 
 [dependencies]
-mycelium-core = { git = "https://github.com/tzervas/mycelium-core", rev = "46d2515cbd86d2ae4d1365f4adcd2796737e9f0b" }
-mycelium-proj = { git = "https://github.com/tzervas/mycelium-proj", rev = "3209a570c472cd8a94c52f8562cbbfd07c12f322" }
-mycelium-std-core = { git = "https://github.com/tzervas/mycelium-std-core", rev = "376762cc17853e1582684ececf9e760426bcfb0c" }
-mycelium-diag = { git = "https://github.com/tzervas/mycelium-runtime", rev = "cb3a96348f718661dbd3db43224a036df272e177" }
+mycelium-core = { git = "https://github.com/tzervas/mycelium-core", rev = "3958d2ea3c3921611e33f1f00e3469b29a939a76" }
+mycelium-proj = { git = "https://github.com/tzervas/mycelium-proj", rev = "985538d697430a361352f2805b2f2a9aadd1a3e5" }
+mycelium-std-core = { git = "https://github.com/tzervas/mycelium-std-core", rev = "f530c3db59a35fbb5769356555bda09997e96a1f" }
+mycelium-diag = { git = "https://github.com/tzervas/mycelium-runtime", rev = "f9e7c3946836c91848a5b6de13ed9dc61665c4fd" }
 
 # --- standalone workspace root (course-correction Phase B, 2026-07-18; steer handoff §6.2) ---
 [workspace]
